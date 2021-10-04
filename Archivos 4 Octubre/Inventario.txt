@@ -1,0 +1,12 @@
+Mouse
+135
+4
+Teclado
+799.99
+10
+Cable HDMI
+1300
+3
+Camara
+499.99
+7
