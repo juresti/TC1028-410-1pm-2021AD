@@ -1,0 +1,4 @@
+ID Producto,Descripcion,Cantidad,Costo
+3,Silla,18,589.95
+97,Apagador,287,58.29
+23,Cable plano,13,128.99
